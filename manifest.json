@@ -4,7 +4,7 @@
   "name": "网络状态检测",
   "short_name": "net_status",
   "description": "检测网络能否正常解析DNS并使用HTTP请求。",
-  "version": "0.0.2",
+  "version": "0.0.3",
 
   "browser_action": {
     "default_icon": "icon128.png",
