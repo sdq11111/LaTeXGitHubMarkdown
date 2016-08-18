@@ -1,11 +1,6 @@
 {
-  "dependencies": {
-    "marked": "0.3.6"
-  },
   "devDependencies": {
-    "assert": "1.4.1",
-    "jslint": "0.10.3",
-    "mocha": "3.0.1"
+    "jslint": "0.10.3"
   },
   "scripts": {
     "lint": "sh lint.sh"
