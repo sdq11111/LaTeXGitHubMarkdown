@@ -2,8 +2,9 @@
   "manifest_version": 2,
 
   "name": "网络状态检测",
-  "description": "通过看能不能连接百度获得网络情况",
-  "version": "0.0.1",
+  "short_name": "net_status",
+  "description": "检测网络能否正常解析DNS并使用HTTP请求。",
+  "version": "0.0.2",
 
   "browser_action": {
     "default_icon": "icon128.png",
