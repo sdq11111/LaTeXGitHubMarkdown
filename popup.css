@@ -1,5 +1,5 @@
 body {
-  min-width: 130px;
+  min-width: 80px;
 }
 
 a, a:hover {
@@ -19,7 +19,14 @@ a:hover {
   background-color: rgb(230, 230, 230);
 }
 
-svg {
-  vertical-align: middle;
-  padding-right: 2px;
+.in-progress a {
+    color: rgb(63, 72, 204);
+}
+
+.success a {
+    color: rgb(34, 177, 76);
+}
+
+.fail a {
+    color: rgb(237, 28, 36);
 }

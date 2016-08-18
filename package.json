@@ -1,6 +1,4 @@
 {
-  "name": "latex-github-markdown-static",
-  "version": "0.0.14",
   "dependencies": {
     "marked": "0.3.6"
   },
@@ -10,7 +8,6 @@
     "mocha": "3.0.1"
   },
   "scripts": {
-    "lint": "sh lint.sh",
-    "test": "mocha"
+    "lint": "sh lint.sh"
   }
 }
